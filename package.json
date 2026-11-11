@@ -19,7 +19,7 @@
     "dev": "tsc --watch"
   },
   "dependencies": {
-    "moz-utils": "workspace:*"
+    "moz-utils": "^0.3.10"
   },
   "devDependencies": {
     "typescript": "^7.0.2"
