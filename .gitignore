@@ -6,3 +6,9 @@ pnpm-debug.log*
 
 .geminiignore
 .gitignore
+
+# AI Agents & Context Directories
+.agent/
+.agents/
+.gemini/
+.system_generated/
